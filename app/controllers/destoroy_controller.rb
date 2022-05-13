@@ -1,0 +1,2 @@
+class DestoroyController < ApplicationController
+end
